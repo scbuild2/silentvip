@@ -2,10 +2,10 @@
 cp /usr/share/zoneinfo/Asia/Dubai /etc/localtime
 
 #Database Details
-db_host='172.105.250.34';
-db_user='scvpnapp_silentvip';
-db_pass='@@@@F1r3n3t';
-db_name='scvpnapp_silentvip';
+db_host='192.46.215.131';
+db_user='silentvip_pappu';
+db_pass='@F1r3n3t5';
+db_name='silentvip_pappu';
 
 install_require()
 {
