@@ -1,10 +1,10 @@
 #!/bin/bash
 cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
 #Database Details
-HOST='172.105.250.34';
-USER='scvpnapp_silentvip';
-PASS='@@@@F1r3n3t';
-DBNAME='scvpnapp_silentvip';
+HOST='192.46.215.131';
+USER='silentvip_pappu';
+PASS='@F1r3n3t5';
+DBNAME='silentvip_pappu';
 
 install_require()
 {
